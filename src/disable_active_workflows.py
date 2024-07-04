@@ -1,4 +1,4 @@
-# disable active GitHub workflows
+# disable active GitHub workflows in one repository
 import requests
 
 def get_all_workflows(owner, repository, token):

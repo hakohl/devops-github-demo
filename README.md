@@ -1,2 +1,2 @@
-# project-disable-active-workflows
-repository for project to disable active workflows
+# devops-github-demo
+repository to show a demo of a devops workflow in GitHub
