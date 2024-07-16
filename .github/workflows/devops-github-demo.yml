@@ -1,6 +1,6 @@
 # This administrative workflow will disable active workflows in one GitHub repository.
 
-name: disable-active-workflows
+name: devops-github-demo
 
 on: workflow_dispatch
 
